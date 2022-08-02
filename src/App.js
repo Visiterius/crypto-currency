@@ -3,7 +3,6 @@ import DisplayCurrency from "./components/DisplayCurrency";
 import './App.css'
 import logo from './assets/logo.svg'
 import icon from './assets/icon.svg'
-import figure from './assets/figure.png'
 
 export default function App() {
 
